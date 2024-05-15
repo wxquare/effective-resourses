@@ -146,7 +146,7 @@
 - [《Pro Git中文版》](./git/ProGit中文版.pdf)
 - [《GitHub入门与实践》](./git/GitHub入门与实践.pdf)
 
-## Docker
+## Docker & k8s
 
 - [《Docker从入门到实践（第3版）》](./docker/Docker从入门到实践（第3版）.pdf)
 - [《Docker容器与容器云（第2版）》](./docker/Docker容器与容器云（第2版）.pdf)
@@ -173,9 +173,15 @@
 - [《Redis设计与实现》](./redis/Redis设计与实现.pdf)
 - [《Redis开发与运维》](./redis/Redis开发与运维.pdf)
 
-## Nginx
+## Nginx 
 
 - [《深入理解Nginx：模块开发与架构解析（第2版）》](./nginx/深入理解Nginx：模块开发与架构解析（第2版）.pdf)
+
+
+## Data processing
+- [ 《Program In Scala》](./bigdata/Programming_in_Scala.pdf)
+- [ 《Program In Scala (中文版)[不全]](./bigdata/Scala编程(中文版).pdf)
+- [ 《Spark快速大数据分析》](./bigdata/Spark快速大数据分析.pdf)
 
 ## Others
 
@@ -185,4 +191,7 @@
 - [《程序员的职业素养》](./others/程序员的职业素养.pdf)
 - [《程序员的自我修养：链接、装载与库》](./others/程序员的自我修养：链接、装载与库.pdf)
 - [《高效程序员的45个习惯》](./others/高效程序员的45个习惯.pdf)
+- [《数据密集型应用 DDIA》](https://github.com/Vonng/ddia)
 
+
+## share
