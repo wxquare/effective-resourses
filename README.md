@@ -178,7 +178,7 @@
 - [《深入理解Nginx：模块开发与架构解析（第2版）》](./nginx/深入理解Nginx：模块开发与架构解析（第2版）.pdf)
 
 
-## Data processing
+## BigData
 - [ 《Program In Scala》](./bigdata/Programming_in_Scala.pdf)
 - [ 《Program In Scala (中文版)[不全]](./bigdata/Scala编程(中文版).pdf)
 - [ 《Spark快速大数据分析》](./bigdata/Spark快速大数据分析.pdf)
@@ -192,6 +192,5 @@
 - [《程序员的自我修养：链接、装载与库》](./others/程序员的自我修养：链接、装载与库.pdf)
 - [《高效程序员的45个习惯》](./others/高效程序员的45个习惯.pdf)
 - [《数据密集型应用 DDIA》](https://github.com/Vonng/ddia)
-
 
 ## share
